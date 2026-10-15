@@ -1,0 +1,6 @@
+{
+  "name": "VoltIDE - Universal Microcontroller Studio",
+  "description": "Third-party Arduino & Microcontroller IDE with external library manager, advanced code editor, WebSerial COM ports, serial plotter, and community code gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
